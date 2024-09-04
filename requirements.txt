@@ -1,0 +1,11 @@
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+matplotlib==3.9.1
+opencv-python==4.10.0
+sklearn==1.5.1
+pandas==2.2.2
+ultralytics==8.2.60
+roboflow==1.1.36
+pickle5==3.12.4
+git+https://github.com/ultralytics/yolov5.git
+git+https://github.com/ifzhang/ByteTrack.git
